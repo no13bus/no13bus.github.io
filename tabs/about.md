@@ -1,11 +1,11 @@
 ---
-title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
+title: 关于
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+- 写过python, php, java. 近几年一直用java作为后端语言
+- 前端搞过angular, react, 后来发现了dva这个框架, 就一直用其作者的相关开发框架了
+- 开发一款自己的产品一直是自己的一个梦想。最近也一直想把客户端(android, iOS)学学，后面想做独立开发. 近期正在忙着用kotlin模仿一款二手书app做一款Android app 练练手
+- 既然是想自己独立开发一款产品，sketch也学习了一下。公司有一些小的设计工作自己也尝试着做了做。不得不说sketch很好用.
+- 搞过Google Play app上架的事情，折腾了几个月，总结了一些gp账户关联以及马甲包上架的经验. 幸运的是得到了一些素未蒙面的网友的帮助，在上架的过程中对我帮助很大。由此自己建了个微信群, 一起交流。`如果有遇到上架或者关联问题的，我可以提供有偿服务`.
+- 如上所述, 搞gp上架的时候，顺便也对接了代投，以及后期自己搞投放, 在Facebook广告投放上面也积攒了些经验。在数据层面，流量运营层面，fb广告投放层面对海外流量投放又有了点新的理解，也特别有意思。欢迎大家一起交流。
+- 我的微信: no13bus.
